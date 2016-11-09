@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SFSample</string>
+
+    <!--消息设置-->
+    <string name="real_photo_message">只接受真实头像的消息</string>
+    <string name="higher_credit_message">只接受信用较高的用户消息</string>
+    <string name="friends_condition_message">只接受符合交友条件消息</string>
+
+
+    <string name="user_name_input_hint">请输入用户名</string>
+    <string name="pwd_input_hint">请输入密码</string>
+    <string name="login_tip">登陆</string>
+
+    <string name="news">新闻</string>
+    <string name="video">视频</string>
+    <string name="topic">话题</string>
+    <string name="beauty">美女</string>
+    <string name="profile">我的</string>
+</resources>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\base_sf_core\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4162dd3283a975bc0015942d064e97a405db4c1">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-base_sf_core-1.0.0_a0353c39de8330ebbf5ca27e80da0464aa5852f6.jar" />
+    </item>
+    <item
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_4b33b64cc0b0bbd4d22c71ba22c7e18254ddba8a.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_radar_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9a37ee66407065086c5a8766b84a2fefdf098b9b">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_0_0_69fd0ea4ae6b35bbe08b339678f729a88cbaf7c8.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_db_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="67ff02a69d6d27f09b47143bc2d6dabc21a259df">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_db_lib-1.0.0_e0cbba86c0d60e09bfecacf6a6a9bc9eece32284.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\libs\maxleap-sdk-core-v0.9.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a9f80f37610683b22ca5ce97a809dcb8ca9d868">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\maxleap-sdk-core-v0.9.9_4a051637a36d47ac064e1207f8ad886c29c06f05.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16a30b622ac9a27fd35529f3b7214077d00fb8d6">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_umeng_lib-1.0.0_dffc386da2645e02296b90368d63dcb2ff33c5d1.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_pay_lib\1.0.0\jars\libs\alipaySDK-20150818.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea71d95bea71d047cbd8065ad195e7a80df5a8cd">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\alipaySDK-20150818_8dcb478aecb243af86deba93cd44cd3c576c959e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_share_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3eb819800458caf4c98a1e92f140fc2ac17ba641">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_share_lib-1.0.0_27df38d4f484b0dec6ef1002de3cd87189863c2e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_6189f65369018a47fe765973837eea79c3d0e936.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="320edd98aff2375ed89b7f8259a1b9d4e1c069a8">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.4_3fb4906520c71c997adeb54c68dffdf9efa5d19c.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_e5cb4a3b41e4fcb123ac30feba015a4d3d3a2573.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_util_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0ab7b2b20daad702eb757ee695d7408aa8e6223e">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_0_0_2a52b44154923b59d5d11f60223a007417492e43.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="888ed40a8296af4e66a25a05f1f62c32a6ff0216">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_86eb5364b4c7c55418d2aa848b00b29686c6a07b.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\http_client\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d9f658ff723799d7f79b23cd6ad047269cadb505">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-http_client-1.0.0_3d6c01340ff3f9253015df0a4c4bc1c87b584412.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="38f475ac97e47d764c7140392d7f2916c0c2ecee">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\open_sdk_r5509_a89cd64f1dba2d7bf23f8778f6dd10afd3a2d930.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\opengl_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1e6983c2dec384325da710889e38ec6ddffb384">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-opengl_lib-1.0.0_92ecc1eb7b0fd0240ffe5f03fff3dac9d647da58.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3df49c2613a2a6e21dc07c720b18a04515e3be2a">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_963082d12769ffc9e16b72c05d0a0f36ddb779cb.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\pull_refresh_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d0bd05d37cce7e3a1b2bc372af5a7e1b5dd9d09">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-pull_refresh_lib-1.0.0_c43d37b44ff368b213f09f09b22262a0f14f2a92.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_log_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3dbb2c3f32abe4a9081a062f460136d1c9676186">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_log_lib-1.0.0_46141fb826b4ccc5b7b70a1029f7cfcb3be2b445.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_cloud_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="18efff10cbafc4193bc9feb47e33e87117e59ae0">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_0_0_ae1f229b7add55d968f22ca197fda2b127f00833.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\custom_view\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a7066cabaae2837e5217d2c8a9b3e88e2e7b9ea">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-custom_view-1.0.0_ec9f28a74128fc96cf5be6fe7437411d4b2a993b.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="74e4bdbaa9f5fcff5908fee3fe8a47d4e0eb2794">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\SocialSDK_Sina_af1b3c89ea7225885a891bd8dbf15094ad5d7da2.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sfchat_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b8784925006c2d72c6af1a9e137aac440be1425">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sfchat_lib-1.0.0_4c76b71bfcfe98719872bab586b99deb849a15a8.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_search_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f04e893111c4c792286ebda9464aa0ea38998158">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_0_0_d765b1a204c31c9b7310476bcd521dda516fd5a6.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\reflection_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="969196ef62cfd621447202f092f8e1f5820fc479">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-reflection_lib-1.0.0_35050d734bdcfc1ac3e4880b9aa8708f13324e94.jar" />
+    </item>
+    <item
+        jar="C:\Users\NetEase\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\gson-2.2.4_59aa8efad8763f29cd6411ce9a7b89703966fd46.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d69368bb7a06eae54d6b96acd00c22db76786c9">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\umeng_social_sdk_be249b4c08504ee3bc10176ff97d3d730bea0f8e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97ac903f8176768e11d0d8db29bd1489ec8bcdb1">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_7e11cc77a940337c4a141b41e784bcc2054fff95.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\android_tv\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="80f2f37a0d08cd16e8706f135d39652565a5ef42">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-android_tv-1.0.0_a3a64b7a25e9065043d9a427ead2682da57427dc.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.0.0_08ab43de112043d8c43f366e7184711168221b9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\NetEase\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_d432fb58cf21718f197dde133d622d5916a11b07.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_0673d13a91ac246ac1910d2a5f2be818fd05c943.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="713c13418f83d31a2aca07f02316d5184e3dc7cb">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-baidu_lib-1.0.0_85c1bc4d3efd9563c4785be1c9161d71e763cb8e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\leanback-v17\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="34b1bfb315bb66c080201bcf01b6954a96f91ebb">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.android.support-leanback-v17-22.2.0_afb82edcccf069cb2b8877de76787d5ca0801c20.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_pay_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f9062bedf10b471e994504c59e83ff72811abd60">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_pay_lib-1.0.0_da871b9f9e0c57d2baf8eeadf59ac23da4b8f142.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_pay_lib\1.0.0\jars\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="32444ab9f800f7f5cbeb9664d6cfaa1213c3fe0b">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\libammsdk_ddbba771d3ca052e7cfffb27080febd94b37e145.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_base_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0f8ebbc7956c63798d4b6645a891bb697b4ea5a">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_0_0_bc6459a79d1247c3860ac196fe75b5aeac3f93a7.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_umeng_lib\1.0.0\jars\libs\umeng-analytics-v6.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3cf8e1eab5515c2e5820dab425afa775bd10e5e5">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\umeng-analytics-v6.0.0_43f3870188985a5e365c8d65a4f53adaea9e6794.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_circle_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bf09dfe2b180c03a5f30fe9b89693fca753845fc">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_circle_lib-1.0.0_fb9058bcae364a230a0dab6ba7e2113744872d4e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.0_a09c11ef592613865f381032e82357400d158d50.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\sf_util_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a056fefb1038a144dabea6eafe2722884049998c">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-sf_util_lib-1.0.0_71a3fe96848bb1a69f85f6f40ccd8bccbe61f86e.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\emoji_lib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2318652d097629a3b0b1fc80831f5b6af8387afe">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\com.sf.core-emoji_lib-1.0.0_f8e4d885dd50c8b06d04b88b0651105ddeba0187.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_55fd642402034e1943068b3461b9a26840d79401.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\baidumapapi_map_v4_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2ba8adc73a850d831c1447dfbde377c82515502">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_0_0_ecb01fddcb4ceb0b7f5c95068fc11640a49f3d18.jar" />
+    </item>
+    <item
+        jar="E:\gitRepository\android\NYBao\NYApp\build\intermediates\exploded-aar\com.sf.core\baidu_lib\1.0.0\jars\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="623307b4483045507ac1175f18324461a9f61136">
+        <dex dex="E:\gitRepository\android\NYBao\NYApp\build\intermediates\pre-dexed\debug\locSDK_6.13_3e7d92a6a42b9f76352df60ac1a76204b5afe54e.jar" />
+    </item>
+
+</items>

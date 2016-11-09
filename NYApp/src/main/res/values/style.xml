@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="photo_preview_style" parent="@android:style/Theme.Holo.NoActionBar">
+    </style>
+    <style name="styledView">
+
+        <item name="rectColor">#ffff0000</item>
+        <item name="circleColor">#ff009999</item>
+    </style>
+
+    <style name="styledView2">
+        <item name="rectColor">#ffff0000</item>
+        <item name="circleColor">#ff990000</item>
+    </style>
+
+    <style name="styledColor">
+        <item name="rectColor">#ffff0000</item>
+        <item name="circleColor">#ff990000</item>
+    </style>
+
+    <style name="styledView3">
+        <item name="styleViewColor">@style/styledColor</item>
+    </style>
+
+    <style name="item_tv">
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+</resources>

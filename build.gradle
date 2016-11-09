@@ -1,0 +1,28 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+ext {
+     lib_version = "1.0.0"
+     lib_group = "com.sf.core"
+}
+
+allprojects {
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+        maven {
+            url "https://raw.githubusercontent.com/xieningtao/mavenRepo/master/"
+        }
+        mavenCentral()
+
+    }
+}
