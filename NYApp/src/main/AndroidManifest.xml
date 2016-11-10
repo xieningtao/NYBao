@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.sf.SFSample"
+          package="com.ny.nybao"
           android:versionCode="1"
           android:versionName="1.0">
 
@@ -66,7 +66,7 @@
 
 
         <activity
-            android:name=".home.HomeLevelActivity"
+            android:name="com.ny.nybao.NYHomeActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -100,7 +100,7 @@
 
         <!--微信-->
         <activity
-            android:name=".wxapi.WXEntryActivity"
+            android:name="com.ny.nybao.wxapi.WXEntryActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true"
             android:screenOrientation="portrait"
@@ -112,100 +112,6 @@
         <!---->
 
 
-        <activity android:name=".ui.ViewPagerTest"></activity>
-        <activity android:name=".ui.RoundDrawableActivity"></activity>
-        <activity android:name=".ui.PullListActivity"></activity>
-        <activity android:name=".ui.GestureTest"></activity>
-        <activity android:name=".ui.CircleTest"></activity>
-        <activity android:name=".home.CustomViewLevelActivity"></activity>
-        <activity android:name=".ui.SlidingActivity"></activity>
-        <activity android:name=".ui.ViewEventActivity"></activity>
-        <activity android:name=".ui.GestureListViewActiviy"></activity>
-        <activity android:name=".ui.HotwordActivity"></activity>
-        <activity android:name=".ui.SurfaceActivity"></activity>
-        <activity android:name=".ui.ReflectionActivity"></activity>
-        <activity android:name=".ui.RoundBitmapActivity"></activity>
-        <activity
-            android:name=".ui.BasicOpenGLES20Activity"
-            android:configChanges="orientation"/>
-        <activity
-            android:name=".ui.VideoPlayActivity"
-            android:configChanges="orientation|screenSize|keyboard"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        <activity android:name=".ui.TransformActivity"/>
-        <activity
-            android:name=".ui.TVVerticalGridViewActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar"/>
-        <activity
-            android:name=".ui.TVHomeActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar"/>
-        <activity
-            android:name=".ui.TVHorizontalGridViewActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar"/>
-        <activity android:name=".home.OpenGLLevelActivity"/>
-        <activity android:name=".home.TVLevelActivity"/>
-        <activity android:name=".ui.AdbShellActivity"/>
-        <activity
-            android:name=".home.ActivitySelected"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.StyledViewActivity"
-            android:theme="@style/styledView3"/>
-        <activity android:name=".ui.TVFocusActivity"/>
-        <activity android:name=".ui.XPinListViewActivity"/>
-        <activity
-            android:name=".ui.OpenGLTanActivity"
-            android:screenOrientation="landscape"/>
-        <activity
-            android:name=".ui.DecencoderActivity"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.UMengShareActivity"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.FragmentTabActivity"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivityMultiChoice"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivitySingleChoice"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivityUpgrade"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivityNewCircle"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivitySpecialEmoji"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.ActivityBaiduLocation"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".home.ActivityBaiduFamily"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".ui.PullCacheListActivity"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".chat.ActivitySFChat"
-            android:configChanges="keyboardHidden"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="adjustResize"
-            />
-
-        <activity
-            android:name=".ui.ActivityPopView"
-            android:configChanges="keyboardHidden"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="adjustResize"
-            />
-
         <activity
             android:name="com.basesmartframe.pickphoto.ActivityFragmentContainer"
             android:configChanges="keyboardHidden"
@@ -214,33 +120,16 @@
             />
 
         <activity
-            android:name=".tiantu.ActivityPhotoPreview"
+            android:name="com.ny.nybao.tiantu.ActivityPhotoPreview"
             android:screenOrientation="portrait"
             android:theme="@style/photo_preview_style"
             />
         <!--baby medical app-->
         <activity
-            android:name=".babymedical.ActivityLogin"
+            android:name="com.ny.nybao.babymedical.ActivityLogin"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Holo.NoActionBar"
             />
-        <activity
-            android:name=".tiantu.ActivityHome"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Holo.NoActionBar"
-            />
-        <activity
-            android:name=".nybao.NYHomeActivity"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Holo"
-            />
-        <activity
-            android:name=".ui.ActivityLivePopView"
-            android:screenOrientation="portrait"
-            />
-        <activity
-            android:name=".opengl.ObjModelActivity"
-            android:screenOrientation="portrait"/>
         <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
 

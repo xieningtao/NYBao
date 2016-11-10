@@ -11,7 +11,7 @@
 
     <fragment
         android:id="@+id/recommend_video_fg"
-        class="com.sf.SFSample.nybao.NYFragmentRecommendVideo"
+        class="com.ny.nybao.NYFragmentRecommendVideo"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />

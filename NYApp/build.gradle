@@ -5,13 +5,20 @@ android {
     buildToolsVersion '21.1.2'
 
     defaultConfig {
-        applicationId "com.sf.SFSample"
+        applicationId "com.ny.nybao"
         minSdkVersion 17
         multiDexEnabled true
         versionCode 1
         versionName "1.0"
         ndk {
             abiFilters "armeabi", "armeabi-v7a"
+        }
+    }
+
+    sourceSets {
+        main {
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
         }
     }
     buildTypes {
@@ -42,7 +49,7 @@ dependencies {
     compile "com.sf.core:emoji_lib:1.0.0@aar"
     compile "com.sf.core:http_client:1.0.0@aar"
     compile "com.sf.core:opengl_lib:1.0.0@aar"
-    compile "com.sf.core:sf_umeng_lib:1.0.0@aar"
+    compile("com.sf.core:sf_umeng_lib:1.0.0@aar")
     compile "com.sf.core:sf_pay_lib:1.0.0@aar"
     compile "com.sf.core:sf_circle_lib:1.0.0@aar"
     compile "com.sf.core:sfchat_lib:1.0.0@aar"
