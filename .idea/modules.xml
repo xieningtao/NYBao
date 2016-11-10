@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/NYApp/NYApp.iml" filepath="$PROJECT_DIR$/NYApp/NYApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NYBao.iml" filepath="$PROJECT_DIR$/NYBao.iml" />
-    </modules>
-  </component>
-</project>

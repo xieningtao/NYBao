@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="maxleap-sdk-core-v0.9.9">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/NYApp/libs/maxleap-sdk-core-v0.9.9.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
