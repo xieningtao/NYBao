@@ -1,5 +1,6 @@
 package com.ny.nybao;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,7 +15,7 @@ public class NYFragmentProfile extends BaseFragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.ny_fragment_profile,null);
+        return inflater.inflate(R.layout.ny_fragment_profile, null);
     }
 
     @Override
@@ -23,7 +24,8 @@ public class NYFragmentProfile extends BaseFragment {
         view.findViewById(R.id.personal_rl).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent intent = new Intent(getActivity(), NYLoginActivity.class);
+                startActivity(intent);
             }
         });
     }

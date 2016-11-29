@@ -111,6 +111,16 @@
             android:excludeFromRecents="true"/>
         <!---->
 
+        <activity
+            android:name=".NYRegisterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo"
+            />
+        <activity
+            android:name=".NYLoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo"
+            />
 
         <activity
             android:name="com.basesmartframe.pickphoto.ActivityFragmentContainer"
